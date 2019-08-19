@@ -1,0 +1,7 @@
+{
+    "/v1/": {
+        "target": "https://identitytoolkit.googleapis.com",
+        "secure": false,
+        "changeOrigin": true
+    }
+}
